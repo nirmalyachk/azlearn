@@ -1,0 +1,22 @@
+{
+  "name": "azlearn",
+  "version": "1.0.0",
+  "description": "This is the first file added to the repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalyachk/azlearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirmalyachk/azlearn/issues"
+  },
+  "homepage": "https://github.com/nirmalyachk/azlearn#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
