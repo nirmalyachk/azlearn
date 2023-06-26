@@ -4,7 +4,7 @@ var app = express();
 
 app.get("/", function (req, res) {
 
-res.send("Remember.. This is from STAGING..Simple Web Application is UP and hi from "+ req.headers.host);
+res.send("Remember.. This is from STAGING BRANCH..Simple Web Application is UP and hi from "+ req.headers.host);
 
 });
 
