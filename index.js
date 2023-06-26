@@ -10,6 +10,7 @@ res.send("Remember.. This is from STAGING..Simple Web Application is UP and hi f
 
 app.listen(8080, function () {
 
+console.log("<------------------- Here comes the log ---------------------------->");
 console.log("Simple Web Application running on port 8080!!!!!!!!!!!!!!!!!!!!!!!!!");
 
 });
