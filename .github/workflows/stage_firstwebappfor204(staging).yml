@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'firstwebappfor204'
           slot-name: 'Staging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDF9ABEC4EE64B2D8BDEEEE6673C03E1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9D893A6BB1A849F1BAF6CF7862D2A777 }}
           package: .
